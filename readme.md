@@ -1,0 +1,1 @@
+Making motion of object smooth for better user experience.
